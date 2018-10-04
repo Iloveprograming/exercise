@@ -1,0 +1,26 @@
+将随机数的值固定为1
+玩家数输为2
+游戏轮次定为2
+得到运行结果为：（以下为运行结果复制）
+
+请输入玩家人数：2
+请输入游戏轮次： 2
+play1 请输入0到199之间的一个整数（包括0和199) 
+1
+Congraduation!That's right.
+play2 请输入0到199之间的一个整数（包括0和199) 
+3
+Sorry,but Don't be sad!
+This turn ,the true anwser is 1
+
+play1 请输入0到199之间的一个整数（包括0和199) 
+1
+Congraduation!That's right.
+play2 请输入0到199之间的一个整数（包括0和199) 
+1
+Congraduation!That's right.
+This turn ,the true anwser is 1
+
+now,let'publish the final result
+the final result of play1 is 2
+the final result of play2 is 1
