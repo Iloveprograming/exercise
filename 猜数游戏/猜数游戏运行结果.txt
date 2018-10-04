@@ -1,22 +1,28 @@
-½«Ëæ»úÊýµÄÖµ¹Ì¶¨Îª1
-Íæ¼ÒÊýÊäÎª2
-ÓÎÏ·ÂÖ´Î¶¨Îª2
-µÃµ½ÔËÐÐ½á¹ûÎª£º£¨ÒÔÏÂÎªÔËÐÐ½á¹û¸´ÖÆ£©
+å°†éšæœºæ•°çš„å€¼å›ºå®šä¸º1
+çŽ©å®¶æ•°è¾“ä¸º2
+æ¸¸æˆè½®æ¬¡å®šä¸º2
+ç¬¬ä¸€è½®
+play1 çŒœçš„æ•°ä¸º1
+play2 çŒœçš„æ•°ä¸º3
+ç¬¬äºŒè½®
+play1 çŒœçš„æ•°ä¸º1
+play2 çŒœçš„æ•°ä¸º1
+å¾—åˆ°è¿è¡Œç»“æžœä¸ºï¼šï¼ˆä»¥ä¸‹ä¸ºè¿è¡Œç»“æžœå¤åˆ¶ï¼‰
 
-ÇëÊäÈëÍæ¼ÒÈËÊý£º2
-ÇëÊäÈëÓÎÏ·ÂÖ´Î£º 2
-play1 ÇëÊäÈë0µ½199Ö®¼äµÄÒ»¸öÕûÊý£¨°üÀ¨0ºÍ199) 
+è¯·è¾“å…¥çŽ©å®¶äººæ•°ï¼š2
+è¯·è¾“å…¥æ¸¸æˆè½®æ¬¡ï¼š 2
+play1 è¯·è¾“å…¥0åˆ°199ä¹‹é—´çš„ä¸€ä¸ªæ•´æ•°ï¼ˆåŒ…æ‹¬0å’Œ199) 
 1
 Congraduation!That's right.
-play2 ÇëÊäÈë0µ½199Ö®¼äµÄÒ»¸öÕûÊý£¨°üÀ¨0ºÍ199) 
+play2 è¯·è¾“å…¥0åˆ°199ä¹‹é—´çš„ä¸€ä¸ªæ•´æ•°ï¼ˆåŒ…æ‹¬0å’Œ199) 
 3
 Sorry,but Don't be sad!
 This turn ,the true anwser is 1
 
-play1 ÇëÊäÈë0µ½199Ö®¼äµÄÒ»¸öÕûÊý£¨°üÀ¨0ºÍ199) 
+play1 è¯·è¾“å…¥0åˆ°199ä¹‹é—´çš„ä¸€ä¸ªæ•´æ•°ï¼ˆåŒ…æ‹¬0å’Œ199) 
 1
 Congraduation!That's right.
-play2 ÇëÊäÈë0µ½199Ö®¼äµÄÒ»¸öÕûÊý£¨°üÀ¨0ºÍ199) 
+play2 è¯·è¾“å…¥0åˆ°199ä¹‹é—´çš„ä¸€ä¸ªæ•´æ•°ï¼ˆåŒ…æ‹¬0å’Œ199) 
 1
 Congraduation!That's right.
 This turn ,the true anwser is 1
